@@ -33,7 +33,7 @@ obi2020:
     # spotify:         user/_number_
     # soundcloud:      _username_
     # lastfm:          _username_
-    # instagram:       _username_
+    instagram:       _obia_
     # flickr:          _string_@_string_
     # 500px:           _username_
     # dribbble:        _username_
@@ -52,25 +52,24 @@ obi2020:
     # npm:             _username_
     # hackernews:      _username_
     # trello:          _firstname__lastname_
-    linkedin:        _firstname_-_lastname_-_string_
+    linkedin:        obi2020
     # xing:            _firstname___lastname__counter_
     # blogger:         _number_
     # delicious:       _username_
     # stumbleupon:     _username_
     # paypal:          _username_
     email:           mailto:eightyjane@gmail.com
-    # rss:             //qwtel.com/feed.xml
+    # rss:             feedpath.xml
 
 # Another author
-mdo:
-  name:              Mark Otto
+qwtel:
+  name:              Florian Klampfer
   about:             |
-    Mark Otto is the designer of the original [Hyde Jekyll theme](http://hyde.getpoole.com) and author of this blog post.
-    The post is included here as filler content and to showcase Hydejacks's multi-author feature.
-    Note that this is NOT an endorsement of this product on his part.
-  picture:           https://pbs.twimg.com/profile_images/630796572691804161/kYW5TxUR.jpg
+    Florian Klampfer is the genuis from whom I forked [Hydejack](https://github.com/qwtel/hydejack) to create this space.
+    I don't know him personally.
+  picture:           https://qwtel.com/assets/img/me@2x.jpg
   social:
-    github:          mdo
-    twitter:         mdo
-  image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
+    github:          qwtel
+    twitter:         qwtel
+  image: https://qwtel.com/assets/img/me@2x.jpg
   color: '#268bd2'
