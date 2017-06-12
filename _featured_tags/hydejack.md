@@ -1,6 +1,6 @@
 ---
 layout: list
-title: How'd you do that?
+title: How it's made
 slug: hydejack
 menu: true
 order: 3
