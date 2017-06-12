@@ -26,7 +26,7 @@ author:
   email:             eightyjane@gmail.com
 
 # Fallback image and color if not overwritten
-image:               https://yt3.ggpht.com/-iPDUCDymG7Y/AAAAAAAAAAI/AAAAAAAAAAA/AIjJHFtk_vk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg
+image:               
 color:               '#4f86aa'
 
 # Remove to disable Google Fonts
