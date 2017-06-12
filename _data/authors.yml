@@ -10,7 +10,7 @@ obi2020:
   about:             |
     Obi is short for Obia, which is my middle name.
     Until 2015, I was known as [Mary Egbula](https://www.google.com/search?q=mary+egbula&ie=utf-8&oe=utf-8) 
-    When I took my husband's surname, I decided to go my Obi - to make sure what I'm called retains some Nigerian vibe.
+    When I took my husband's surname, I decided to go my Obi to make sure my personal brand retains a Nigerian vibe.
 
   # This photo will be used in the about section
   picture:
@@ -44,7 +44,7 @@ obi2020:
     # steam:           _number_
     # reddit:          _username_
     # tumblr:          _username_
-    # pinterest:       _username_
+    pinterest:       eightyjane
     # foursquare:      _number_
     # yelp:            _string_
     github:          obi2020
@@ -52,7 +52,7 @@ obi2020:
     # npm:             _username_
     # hackernews:      _username_
     # trello:          _firstname__lastname_
-    # linkedin:        _firstname_-_lastname_-_string_
+    linkedin:        _firstname_-_lastname_-_string_
     # xing:            _firstname___lastname__counter_
     # blogger:         _number_
     # delicious:       _username_
