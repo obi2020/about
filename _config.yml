@@ -18,7 +18,7 @@ tagline:             About Obi Elledge.
 # A longer description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  Content Strategy: UX writing | Documentation | Information Architecture | Brand Voice
+  Content Strategy: UX writing + Documentation + Information Architecture + Brand Voice
 
 # This should be the same author as first in `_data/authors.yml`
 author:
