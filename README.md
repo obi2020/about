@@ -1,21 +1,11 @@
-~~~
- __  __                __                                     __
-/\ \/\ \              /\ \             __                    /\ \
-\ \ \_\ \   __  __    \_\ \      __   /\_\      __       ___ \ \ \/'\
- \ \  _  \ /\ \/\ \   /'_` \   /'__`\ \/\ \   /'__`\    /'___\\ \ , <
-  \ \ \ \ \\ \ \_\ \ /\ \L\ \ /\  __/  \ \ \ /\ \L\.\_ /\ \__/ \ \ \\`\
-   \ \_\ \_\\/`____ \\ \___,_\\ \____\ _\ \ \\ \__/.\_\\ \____\ \ \_\ \_\
-    \/_/\/_/ `/___/> \\/__,_ / \/____//\ \_\ \\/__/\/_/ \/____/  \/_/\/_/
-                /\___/                \ \____/
-                \/__/                  \/___/
-~~~
 
-# Hydejack
-Hydejack is a cutting-edge Jekyll theme that combines the best of static sites and modern web apps. It features a suite of JavaScript that makes the page feel like an app, without sacrificing backwards-compatibility, page-load speed or SEO.
 
-> The complete package for professionals: A [blog], a [portfolio] and a [resume].
+# Content Strategy: UdX writing | Documentation | Information Architecture | Brand Voice
+Obi Elledge is an writer who works on content strategy for web and mobile applications.
 
-It aims to be the complete package for professionals on the web. It features a blog suitable for both prose and technical documentation, a showcase for projects and a resume that fits with the rest of the design.
+> Connect with her on [twitter](https://twitter.com/eightyjane/), [linkedin](https://www.linkedin.com/in/obi2020/) and [github](https://github.com/obi2020).
+
+Obi is not currently available for new projects.
 
 ## [Demo](https://qwtel.com/hydejack/)
 It's best to just [see it in action](https://qwtel.com/hydejack/).
