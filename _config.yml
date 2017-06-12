@@ -18,16 +18,15 @@ tagline:             About Obi Elledge.
 # A longer description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  Built using the [Jekyll](http://jekyllrb.com/) theme, forked from
-  [qwtel] on GitHub.
+  Content Strategy: UX writing | Documentation | Information Architecture | Brand Voice
 
 # This should be the same author as first in `_data/authors.yml`
 author:
-  name:              Florian Klampfer
-  email:             f.klampfer@gmail.com
+  name:              Obi Elledge
+  email:             eightyjane@gmail.com
 
 # Fallback image and color if not overwritten
-image:               /hydejack/assets/img/nap.jpg
+image:               https://yt3.ggpht.com/-iPDUCDymG7Y/AAAAAAAAAAI/AAAAAAAAAAA/AIjJHFtk_vk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg
 color:               '#4f86aa'
 
 # Remove to disable Google Fonts
