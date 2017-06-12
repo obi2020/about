@@ -5,8 +5,7 @@ slug: hydejack
 menu: true
 order: 3
 description: >
-  Hydejack is a two-column [Jekyll](http://jekyllrb.com/) theme, developed by
-  [`@qwtel`](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com). 
+  Obi created this site using open source code for the theme Hydejack, a two-column [Jekyll](http://jekyllrb.com/) theme developed by [`@qwtel`](https://github.com/qwtel). 
   
-  Obi used the open source code to create this site via GitHub.
+  
 ---
